@@ -1,6 +1,6 @@
 Name:		texlive-greektonoi
 Version:	39419
-Release:	1
+Release:	2
 Summary:	Facilitates writing/editing of multiaccented greek
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/greektonoi
