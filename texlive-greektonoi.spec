@@ -3,7 +3,7 @@ Version:	39419
 Release:	2
 Summary:	Facilitates writing/editing of multiaccented greek
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/greektonoi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/greektonoi
 License:	lgpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/greektonoi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/greektonoi.doc.r%{version}.tar.xz
